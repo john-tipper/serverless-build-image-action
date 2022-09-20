@@ -1,0 +1,5 @@
+name: 'serverless-build-image'
+description: 'Serverless Framework build image with additional tooling'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
